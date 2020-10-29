@@ -1,0 +1,11 @@
+/* Farsi */
+@font-face {
+  font-family: 'Vazir';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://github.com/mncdesign/mncdesign.github.io/blob/main/Vazir.eot?raw=true) format('eot');
+  src: url(https://github.com/mncdesign/mncdesign.github.io/blob/main/Vazir.ttf?raw=true) format('ttf');
+  src: url(https://github.com/mncdesign/mncdesign.github.io/blob/main/Vazir.woff?raw=true) format('woff');
+  src: url(https://github.com/mncdesign/mncdesign.github.io/blob/main/Vazir.woff2?raw=true) format('woff2');
+  unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE80-FEFC;
+}
